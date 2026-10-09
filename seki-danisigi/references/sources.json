@@ -1,0 +1,84 @@
+[
+  {
+    "id": "S01",
+    "title": "The Sheki dialect of Northern Azeri",
+    "authors": [
+      "Birsel Karakoç",
+      "Aytan Abbasova"
+    ],
+    "year": 2023,
+    "pages": "214–236",
+    "url": "https://dergipark.org.tr/en/pub/tdd/article/1412621",
+    "pdf": "https://dergipark.org.tr/en/download/article-file/3631431",
+    "access": "PDF-in fonetik, morfoloji və leksik təhlili, istifadə olunan transkripsiya nümunələri oxunub və tutuşdurulub.",
+    "scope": "Bir şəhər danışanının iki yazısı və müəlliflərin əlavə müqayisə materialları. Bütün Şəki əhalisinin statistik nümunəsi deyil.",
+    "license": "Məqalədə CC BY-NC 4.0 göstərilir; orijinal məqalə paketə köçürülməyib."
+  },
+  {
+    "id": "S02",
+    "title": "Azərbaycan dialektologiyası",
+    "authors": [
+      "İbrahim Bayramov"
+    ],
+    "year": 2022,
+    "url": "https://azerbaycandili.az/Literatures/Download/20110/Azerbaycan_dialektologiyasi.pdf",
+    "access": "Açıq PDF-in sual və qayıdış əvəzlikləri bölmələri oxunub.",
+    "pages": "229–231 (PDF 236–238)",
+    "scope": "Müxtəlif şivələr müqayisə edilir; yalnız açıq şəkildə Şəkiyə aid edilən formalar götürülüb."
+  },
+  {
+    "id": "S03",
+    "title": "Dialects of the Azerbaijani Language and Common Features in the Uzbek Language",
+    "year": 2025,
+    "url": "https://www.tdkturkdunyasi.gov.tr/eng/full-text/962/eng",
+    "access": "Tam səhifə oxunub.",
+    "scope": "Şəki qeydli sözlər; 2007 dialektoloji lüğətinə istinad edən müqayisəli araşdırma."
+  },
+  {
+    "id": "S04",
+    "title": "Azərbaycan dilinin dialektoloji lüğəti: zəqo:",
+    "url": "https://azleks.az/en/dictionary/zeqo",
+    "access": "Lüğət maddəsi oxunub."
+  },
+  {
+    "id": "S05",
+    "title": "Azərbaycan dilinin dialektoloji lüğəti: deyə",
+    "url": "https://azleks.az/dictionary/deye-3",
+    "access": "Lüğət maddəsi oxunub."
+  },
+  {
+    "id": "S06",
+    "title": "Azərbaycan dilinin dialektoloji lüğəti: elti",
+    "url": "https://azleks.az/dictionary/elti-2",
+    "access": "Lüğət maddəsi oxunub."
+  },
+  {
+    "id": "S07",
+    "title": "Azərbaycan dilinin dialektoloji lüğəti: bəhəm olmağ",
+    "url": "https://azleks.az/dictionary/behem-olmag",
+    "access": "Lüğət maddəsi oxunub."
+  },
+  {
+    "id": "S08",
+    "title": "Azərbaycan dilinin dialektoloji lüğəti: ləmbə",
+    "url": "https://azleks.az/en/dictionary/lembe",
+    "access": "Lüğət maddəsi oxunub; Şəki üçün 3-cü məna götürülüb."
+  },
+  {
+    "id": "S09",
+    "title": "Azərbaycan dilinin dialektoloji lüğəti: tə:r",
+    "url": "https://v2.azleks.az/dictionary/ter-4",
+    "access": "Lüğət maddəsi oxunub."
+  },
+  {
+    "id": "S10",
+    "title": "Şimal-qərb şivələrinin leksik-semantik xüsusiyyətlərinə dair avtoreferat",
+    "authors": [
+      "Könül Sadıqova"
+    ],
+    "year": 2024,
+    "url": "https://aak.gov.az/upload/dissertasion/filologiya_elml_ri/K%C3%96N%C3%9CL_SADIQOVA_AVTOREFERAT_AZ%C6%8FRBAYCANN1.pdf",
+    "access": "Təsnifat və tədqiqat tarixi bölmələri oxunub.",
+    "scope": "Şimal-qərb arealı haqqında məlumat; Qax, Zaqatala, Balakən nümunələri avtomatik Şəki kimi etiketlənmir."
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "R01",
+    "feature": "k → ç",
+    "constraint": "Mövqe həssasdır.",
+    "source_id": "S01",
+    "locator": "223",
+    "type": "phonology",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  },
+  {
+    "id": "R02",
+    "feature": "g → c",
+    "constraint": "Ön sıra g nəzərdə tutulur.",
+    "source_id": "S01",
+    "locator": "223",
+    "type": "phonology",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  },
+  {
+    "id": "R03",
+    "feature": "Sonrakı hecada son k → h",
+    "constraint": "Bütün k-lərə tətbiq edilməz.",
+    "source_id": "S01",
+    "locator": "223",
+    "type": "phonology",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  },
+  {
+    "id": "R04",
+    "feature": "Sait uzanması",
+    "constraint": "Müddət rəqəmlə ölçülməyib.",
+    "source_id": "S01",
+    "locator": "225–227",
+    "type": "phonology",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  },
+  {
+    "id": "R05",
+    "feature": "Sait + y başlanğıclı şəkilçi",
+    "constraint": "Kök və şəkilçi birlikdə yoxlanır.",
+    "source_id": "S01",
+    "locator": "227–229",
+    "type": "morphophonology",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  },
+  {
+    "id": "R06",
+    "feature": "I cəm: -(y)ux",
+    "constraint": "Ahəngli ədəbi formaları avtomatik köçürmə.",
+    "source_id": "S01",
+    "locator": "230",
+    "type": "person",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  },
+  {
+    "id": "R07",
+    "feature": "II cəm: -suz / -su:z",
+    "constraint": "Şəxs və mənsubiyyət ayrıdır.",
+    "source_id": "S01",
+    "locator": "230–231",
+    "type": "person",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  },
+  {
+    "id": "R08",
+    "feature": "l / d / n variantlaşması",
+    "constraint": "Əvvəlki samitdən asılıdır.",
+    "source_id": "S01",
+    "locator": "232",
+    "type": "assimilation",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  },
+  {
+    "id": "R09",
+    "feature": "-nan / -nən",
+    "constraint": "Çıxış və birgəlik fərqləndirilməlidir.",
+    "source_id": "S01",
+    "locator": "232",
+    "type": "case",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  },
+  {
+    "id": "R10",
+    "feature": "Son b / p → f",
+    "constraint": "Kontekstlə dəyişir.",
+    "source_id": "S10",
+    "locator": "10 / PDF 9",
+    "type": "phonology",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  },
+  {
+    "id": "R11",
+    "feature": "Sual və qayıdış variantları",
+    "constraint": "Yalnız Şəki qeydli maddələr.",
+    "source_id": "S02",
+    "locator": "229–231",
+    "type": "pronouns",
+    "evidence": "source_supported",
+    "automatic_global_rule": false,
+    "local_speaker_review": "required_before_generalization"
+  }
+]
