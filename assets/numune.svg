@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="430" viewBox="0 0 820 430" role="img" aria-label="Nümunə söhbət: Claude Şəki ləhcəsi ilə cavab verir">
+  <style>
+    text { font-family: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif; }
+    .lbl { font-size: 13px; fill: #9a8f80; letter-spacing: .04em; }
+    .usr { font-size: 17px; fill: #f4efe6; }
+    .bot { font-size: 17px; fill: #2a2118; }
+    .tag { font-size: 12px; fill: #9a8f80; }
+    .hl { fill: #b3441e; font-weight: 600; }
+  </style>
+  <rect width="820" height="430" rx="18" fill="#1f1a15"/>
+  <text x="32" y="42" class="lbl">ŞƏKİ DANIŞIĞI · CLAUDE SKILL</text>
+  <text x="788" y="42" class="tag" text-anchor="end">rejim 3 — normadan artıq</text>
+
+  <rect x="330" y="68" width="458" height="76" rx="16" fill="#3a3027"/>
+  <text x="352" y="100" class="usr">Şəki ləhcəsi ilə de: proqramlaşdırmanı</text>
+  <text x="352" y="126" class="usr">necə öyrənim?</text>
+
+  <rect x="32" y="166" width="600" height="206" rx="16" fill="#f4efe6"/>
+  <text x="56" y="202" class="bot"><tspan class="hl">Nağaassan?</tspan> <tspan class="hl">Cəl</tspan> belə <tspan class="hl">eliyəh</tspan>: hər <tspan class="hl">cün çiçih</tspan> bir iş yaz,</text>
+  <text x="56" y="230" class="bot"><tspan class="hl">böyüh</tspan> layihədən <tspan class="hl">başdama</tspan>.</text>
+  <text x="56" y="270" class="bot"><tspan class="hl">Çim na</tspan> desə desin, <tspan class="hl">kəndin</tspan> yazmasan <tspan class="hl">öyrənmiyəssən</tspan>.</text>
+  <text x="56" y="310" class="bot">Bir ay <tspan class="hl">sora cörərsən çi</tspan>, əlin <tspan class="hl">öyrəşif</tspan>.</text>
+  <text x="56" y="350" class="tag" style="fill:#8a7d6c">Claude</text>
+
+  <text x="32" y="404" class="tag">Nümunə söhbət. Rəngli sözlər şivə formalarıdır; bir qismi mənbədə var, bir qismi qaydadan qurulub.</text>
+</svg>
