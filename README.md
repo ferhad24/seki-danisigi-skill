@@ -12,6 +12,8 @@ small source-backed lexicon instead of made-up forms.*
   `cün` (gün), `çörəəh` (çörək), `zəqoo` (çox duzlu)...
 - 11 səs və şəkilçi qaydası: k → ç, g → c, son k → h, `-yir`, `-ux`, `-suz`, `-nan / -nən`.
 - Hər formanın mənbəsi və səhifəsi (`references/lexicon.json`, `rules.json`, `sources.json`).
+- 4 rejim: azaldılmış, orta (standart), normadan artıq, ultra Şəki — "rejim 3" və ya
+  "ultra şəki" yazmaqla keçirsən.
 - Claude üçün davranış qaydası: bilmədiyi yerdə forma uydurmur, ədəbi sözü saxlayır;
   kod və rəsmi sənədə toxunmur; şivəni karikaturaya çevirmir.
 
