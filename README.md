@@ -1,7 +1,7 @@
 # Şəki danışığı — Claude üçün skill
 
 Claude-a Şəki şivəsi ilə danışmağı öyrədən skill. Yazırsan "Şəki ləhcəsi ilə danış" —
-o da cavab verir: **"Nağa:ssan? Bu cün həncəri cedir işlər?"**
+o da cavab verir: **"Nağaassan? Bu cün həncəri cedir işlər?"**
 
 *A Claude skill for chatting in the Sheki (Shaki) dialect of Azerbaijani, built on a
 small source-backed lexicon instead of made-up forms.*
@@ -9,7 +9,7 @@ small source-backed lexicon instead of made-up forms.*
 ## İçində nə var
 
 - 31 mənbəli söz və ifadə: `həncəri` (necə), `neşin` (niyə), `havax` (nə vaxt),
-  `cün` (gün), `çörə:h` (çörək), `zəqo:` (çox duzlu)...
+  `cün` (gün), `çörəəh` (çörək), `zəqoo` (çox duzlu)...
 - 11 səs və şəkilçi qaydası: k → ç, g → c, son k → h, `-yir`, `-ux`, `-suz`, `-nan / -nən`.
 - Hər formanın mənbəsi və səhifəsi (`references/lexicon.json`, `rules.json`, `sources.json`).
 - Claude üçün davranış qaydası: bilmədiyi yerdə forma uydurmur, ədəbi sözü saxlayır;

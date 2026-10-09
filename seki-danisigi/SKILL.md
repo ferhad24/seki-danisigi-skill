@@ -23,7 +23,7 @@ qurub içinə uyğun gələn mənbəli Şəki formalarını yerləşdirməkdir. 
 ## Yazı rejimi
 
 Oxunaqlı yazılış işlət, elmi transkripsiya yox. `:` əvvəlki saitin uzunluğudur
-(`da:ş-`, `çörə:h`), vurğu və ya ton deyil. Bir cavabda bir yazı rejimi saxla.
+(`daaş-`, `çörəəh`), vurğu və ya ton deyil. Bir cavabda bir yazı rejimi saxla.
 
 ## Söz bazası (mənbədə olan formalar)
 
@@ -38,11 +38,11 @@ Oxunaqlı yazılış işlət, elmi transkripsiya yox. `:` əvvəlki saitin uzunl
 | kiçik | çiçih | |
 | böyük | böyüh | |
 | ürək | ürəh | |
-| çörək | çörə:h | |
-| danış- | da:ş- | |
+| çörək | çörəəh | |
+| danış- | daaş- | |
 | oxuyur | oxiyir | |
 | süfrəyə | süfriyə | |
-| Nə edirsən? | Nağa:ssan? | hazır ifadə |
+| Nə edirsən? | Nağaassan? | hazır ifadə |
 | kim | çim | |
 | nə | na | |
 | necə | həncəri | |
@@ -54,12 +54,12 @@ Oxunaqlı yazılış işlət, elmi transkripsiya yox. `:` əvvəlki saitin uzunl
 | inək / naxır | sığır | |
 | ərin qardaşı (qayın) | ini | |
 | tövlə | dam | "evin damı" mənasında yox |
-| çox duzlu | zəqo: | |
+| çox duzlu | zəqoo | |
 | daxma / talvar | deyə | |
 | qardaş arvadları bir-birinə | elti | |
 | əmələ gəlmək | bəhəm olmağ | |
 | keçilməz kolluq | ləmbə | |
-| küsmək / incimək | tə:r eləmək | |
+| küsmək / incimək | təər eləmək | |
 
 Qohumluq və çoxmənalı sözlərdə (mama, dam, deyə, kəndi) əvvəl mənanı yoxla.
 
@@ -70,10 +70,10 @@ Qohumluq və çoxmənalı sözlərdə (mama, dam, deyə, kəndi) əvvəl mənan�
 | R01 | k → ç | mövqe həssasdır (kənd→çənd, kim→çim) |
 | R02 | g → c | incə saitli söz əvvəlində (gün→cün, gəl-→cəl-) |
 | R03 | çoxhecalı sözün son k-si → h | böyüh, ürəh, çiçih; bütün k-lərə yox |
-| R04 | sait uzanması | yalnız mənbəli sözlərdə yaz |
+| R04 | sait uzanması | hərfi iki dəfə yaz; yalnız mənbəli sözlərdə |
 | R05 | saitlə bitən kök + y-li şəkilçi | aşağıdakı siyahı |
 | R06 | I cəm xəbər: -(y)ux | isim mənsubiyyətinə aid deyil |
-| R07 | II cəm xəbər: -suz / -su:z | şəxs və mənsubiyyət ayrıdır |
+| R07 | II cəm xəbər: -suz / -suuz | şəxs və mənsubiyyət ayrıdır |
 | R08 | l / d / n variantlaşması | əvvəlki samitdən asılı |
 | R09 | -nan / -nən | çıxışlıq və birgəlik; mənanı kontekst ayırır |
 | R10 | son b / p → f | kontekstlə dəyişir (-yif) |
@@ -96,7 +96,7 @@ Samitlə bitən kökə bu y-ni qoşma.
 6. Şivəni savadsızlıq və ya gülünc xarakter kimi oynama — zarafat sözdədir, insanda yox.
 7. Başqa bölgənin (Qax, Zaqatala, Balakən, Gəncə...) formasını Şəki kimi təqdim etmə.
 
-Nümunə (qurulmuş tədris cümləsi): "Nağa:ssan? Bu cün həncəri cedir işlər?"
+Nümunə (qurulmuş tədris cümləsi): "Nağaassan? Bu cün həncəri cedir işlər?"
 
 ## Dürüstlük
 
