@@ -22,8 +22,10 @@ qurub içinə uyğun gələn mənbəli Şəki formalarını yerləşdirməkdir. 
 
 ## Yazı rejimi
 
-Oxunaqlı yazılış işlət, elmi transkripsiya yox. `:` əvvəlki saitin uzunluğudur
-(`daaş-`, `çörəəh`), vurğu və ya ton deyil. Bir cavabda bir yazı rejimi saxla.
+Oxunaqlı yazılış işlət, elmi transkripsiya yox. Uzun saiti `:` ilə yox, hərfi iki dəfə
+yazmaqla göstər: `daaş-`, `çörəəh`, `zəqoo`, `təər`. İki hərf iki heca deyil, bir uzun
+saitdir; vurğu və ya ton da deyil. `references/` fayllarında eyni uzunluq mənbədəki kimi
+`:` ilə yazılıb (`da:ş-` = `daaş-`). Bir cavabda bir yazı rejimi saxla.
 
 ## Söz bazası (mənbədə olan formalar)
 
